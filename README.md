@@ -20,6 +20,7 @@ This device can be used with AC electrical motors to temporarily reduce the load
  
   
   **! THIS PROJECT IS NOT PERFECT AND IS SUBJECTIVE TO HAVING PROBLEMS**
+  ** THIS PROJECT WAS INSPIRED FROM "GreatScott!"(https://www.youtube.com/watch?v=eh0YXLkzAKg&list=LL&index=1)**
   
 **for more help or assistance contact me at eldhokurian123456789@gmail.com**
 
