@@ -1,7 +1,7 @@
 # DIY-AC-PHASE-ANGLE-CONTROLLED-SOFT-STARTER
 This device can be used with AC electrical motors to temporarily reduce the load and torque in the powertrain and electric current surge of the motor during start-up
 
- <image src="images/IMG_20210416_085327.jpg" width="400"> 
+ <image src="images/" width="400"> 
  
   # FEATURES
  ```
@@ -16,7 +16,7 @@ This device can be used with AC electrical motors to temporarily reduce the load
 
 
 # RESULTS
-<image src="images/IMG_20210417_084543__01.jpg" width="800"> 
+<image src="images/IMG_20210417_084543__01.jpg" width="500"> 
  
   
   **THIS PROJECT WAS INSPIRED FROM "GreatScott!"(https://www.youtube.com/watch?v=eh0YXLkzAKg&list=LL&index=1)**
