@@ -12,7 +12,7 @@ This device can be used with AC electrical motors to temporarily reduce the load
 ``` 
 
 # SCHEMATIC
-<image src="images/" width="800"> 
+<image src="images/Schematic_soft start_2021-04-21.png" width="800"> 
 
 
 # RESULTS
